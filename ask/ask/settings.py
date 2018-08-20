@@ -25,7 +25,7 @@ SECRET_KEY = 'ncepi-lyl54drlfuhxrxnlg8v8i!c)v(!a2kp@v0^*^d972pg+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
